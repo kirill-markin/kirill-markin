@@ -46,9 +46,11 @@ Actions:
   * [Facebook ozma.io page](https://www.facebook.com/ozma.io/)
   * [Instagram ozma.io page](https://www.instagram.com/ozma.io/)
   * [IndieHackers ozma.io page](https://www.indiehackers.com/product/ozma-io)
-  * [Google Maps ozma.io page](https://goo.gl/maps/qGQpQsErsT73pWBXA)
   * [Pinterest ozma.io page](https://pinterest.com/kirill_markin/ozmaio/)
   * [Product Hunt ozma.io page](https://www.producthunt.com/products/ozma-io)
+* Other
+  * [Google Maps ozma.io page](https://goo.gl/maps/qGQpQsErsT73pWBXA)
   * [Y Combinator: ozma.io startup school graduate](https://www.startupschool.org/companies/ozma-io)
   * [Crunchbase ozma.io page](https://www.crunchbase.com/organization/ozma-8c74)
   * [AngelList ozma.io page](https://wellfound.com/company/ozma-io)
+
