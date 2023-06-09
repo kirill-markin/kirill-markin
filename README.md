@@ -2,7 +2,6 @@
 
 Actions:
 * [📆 Book a meeting by calendly](https://calendly.com/kirill-markin)  
-* [💾 Save contact to phonebook](/data/kirill-markin.vcf)  
 
 ## 💁‍♂️ Kirill Markin contacts
 
