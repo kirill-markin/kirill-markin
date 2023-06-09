@@ -54,3 +54,18 @@ Actions:
   * [Crunchbase ozma.io page](https://www.crunchbase.com/organization/ozma-8c74)
   * [AngelList ozma.io page](https://wellfound.com/company/ozma-io)
 
+## Articles and mentions
+
+* [DIY Voice-Controlled GPT Chat: A Step-by-Step Guide for Beginners](https://kirill-markin.medium.com/diy-voice-controlled-gpt-chat-a-step-by-step-guide-for-beginners-5535330a7979)
+  * Publisher: Medium
+  * Date: 2023-06-08
+* [Where CRM is used? Discovering the Applications of CRM: Company Size, Function, and Industry.](https://ozma.io/articles/where-crm-is-used-discovering-the-applications-of-crm-size-function-industry/)
+  * Publisher: Ozma Inc.
+  * Date: 2023-06-04
+* [CRM in Excel — Benefits and Differences](https://ozma.io/articles/crm-in-excel-benefits-and-differences/)
+  * Publisher: Ozma Inc.
+  * Date: 2022-10-03
+* [Custom CRM from scratch on low-code platform ozma.io](https://ozma.io/articles/custom-crm-from-scratch-on-low-code-platform-ozma-io/)
+  * Publisher: Ozma Inc.
+  * Date: 2022-08-27
+
