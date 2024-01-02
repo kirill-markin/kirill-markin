@@ -10,7 +10,6 @@ Actions:
   * Email: [markinkirill@gmail.com](mailto:markinkirill@gmail.com)
   * Telegram: [@kirmark](https://t.me/kirmark)
   * WhatsApp: [+359 87 990 6085](https://api.whatsapp.com/send?phone=359879906085)
-  * Phone: [+359 87 990 6085](tel:+359879906085)
 * Social
   * [Linkedin @kirill-markin](https://www.linkedin.com/in/kirill-markin)
   * [Twitter @kirill_markin_](https://twitter.com/kirill_markin_)
@@ -19,14 +18,14 @@ Actions:
 
 ## Articles, conferences, and mentions
 
-* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://www.linkedin.com/posts/kirill-markin_shining-on-noah-conference-activity-7141088778261094400-4kBQ){:target="_blank"}
+* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://www.linkedin.com/posts/kirill-markin_shining-on-noah-conference-activity-7141088778261094400-4kBQ)
   * Publisher: noah-conference.com
   * Date: 2023-12-14
-  * Event: [NOAH Conference 2023, Zurich](https://www.noah-conference.com/program-noah-zurich-conference-2023/){:target="_blank"}
-* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://www.linkedin.com/posts/kirill-markin_if-you-understand-russian-language-and-miss-activity-7121870977998684160-R25T){:target="_blank"}
+  * Event: [NOAH Conference 2023, Zurich](https://www.noah-conference.com/program-noah-zurich-conference-2023/)
+* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://www.linkedin.com/posts/kirill-markin_if-you-understand-russian-language-and-miss-activity-7121870977998684160-R25T)
   * Publisher: matemarketing.ru
   * Date: 2023-11-09
-  * Event: [Mate Marketing Conference 2023](https://matemarketing.ru/mm23){:target="_blank"}
+  * Event: [Mate Marketing Conference 2023](https://matemarketing.ru/mm23)
 * [Creating a voice-enabled Telegram Bot for GPT Chat without DevOps: a comprehensive guide](https://medium.com/@kirill-markin/creating-a-voice-enabled-telegram-bot-for-gpt-chat-without-devops-a-comprehensive-guide-8a905241cb9c)
   * Publisher: Medium
   * Date: 2023-06-22
