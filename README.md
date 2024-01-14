@@ -18,7 +18,7 @@ Actions:
 
 ## Articles, conferences, and mentions
 
-* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://youtu.be/QDFDTN30YOs?si=fpeSOig9h1el2zkK)
+* [Conference Talk: AI web scraping - Data Collection reimagined with soax.com](https://youtu.be/QDFDTN30YOs?si=fpeSOig9h1el2zkK)
   * Publisher: noah-conference.com
   * Date: 2023-12-14
   * Event: [NOAH Conference 2023, Zurich](https://www.noah-conference.com/program-noah-zurich-conference-2023/)
