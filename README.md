@@ -1,4 +1,4 @@
-# Kirill Markin, Founder of ozma.io, Lead Data Scientist
+# Kirill Markin, Founder of ozma.io, Head of AI Lab
 
 Actions:
 * [📆 Book a meeting by calendly](https://calendly.com/kirill-markin)  
@@ -13,8 +13,14 @@ Actions:
 * Social
   * [Linkedin @kirill-markin](https://www.linkedin.com/in/kirill-markin)
   * [Twitter @kirill_markin_](https://twitter.com/kirill_markin_)
+  * [Youtube @kirill-markin](https://www.youtube.com/@kirill-markin)
   * [Instagram @kirill.markin.kira](https://www.instagram.com/kirill.markin.kira/)
   * [Facebook @kirill.markin.kira](https://www.facebook.com/kirill.markin.kira)
+
+## Roles
+
+* Founder of [ozma.io](https://ozma.io)
+* Head of AI Lab at [SOAX](https://soax.com)
 
 ## Articles, conferences, and mentions
 
