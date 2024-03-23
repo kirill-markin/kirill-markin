@@ -17,11 +17,9 @@ Actions:
   * [Youtube @kirill-markin](https://www.youtube.com/@kirill-markin)
   * [Instagram @kirill.markin.kira](https://www.instagram.com/kirill.markin.kira/)
   * [Facebook @kirill.markin.kira](https://www.facebook.com/kirill.markin.kira)
-
-## Roles
-
-* Founder of [ozma.io](https://ozma.io)
-* Head of AI Lab at [SOAX](https://soax.com)
+* Roles
+  * Founder of [ozma.io](https://ozma.io)
+  * Head of AI Lab at [SOAX](https://soax.com)
 
 ## Articles, conferences, and mentions
 
@@ -29,10 +27,9 @@ Actions:
   * Publisher: noah-conference.com
   * Date: 2023-12-14
   * Event: [NOAH Conference 2023, Zurich](https://www.noah-conference.com/program-noah-zurich-conference-2023/)
-* [Conference Talk: Aggregation and analytics of data on a scale of the top three proxy providers in the world: from raw logs to insights.](https://matemarketing.ru/video?v=MTAwMTk4PzIjMzI5Nw)
-  * Publisher: matemarketing.ru
-  * Date: 2023-11-09
-  * Event: [Mate Marketing Conference 2023](https://matemarketing.ru/mm23)
+* [Conference Talk: How to handle a billion new records per day when migrating databases](https://verigram.ai/blog/Kazakhstan-AI-ML-community-is-delighted-with-VeriMeet)
+  * Publisher: verigram.ai
+  * Date: 2023-09-08
 * [Creating a voice-enabled Telegram Bot for GPT Chat without DevOps: a comprehensive guide](https://medium.com/@kirill-markin/creating-a-voice-enabled-telegram-bot-for-gpt-chat-without-devops-a-comprehensive-guide-8a905241cb9c)
   * Publisher: Medium
   * Date: 2023-06-22
