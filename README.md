@@ -30,6 +30,9 @@ Actions:
 * [Conference Talk: How to handle a billion new records per day when migrating databases](https://verigram.ai/blog/Kazakhstan-AI-ML-community-is-delighted-with-VeriMeet)
   * Publisher: verigram.ai
   * Date: 2023-09-08
+* [Build with AI Custom ERP and CRM - No Code Required](https://youtu.be/Una8_vv6mlY?si=oaPzSTpdla7tfXmF)
+  * Publisher: [ozma-io youtube channel](https://www.youtube.com/@ozma-io)
+  * Date: 2024-04-01
 * [Creating a voice-enabled Telegram Bot for GPT Chat without DevOps: a comprehensive guide](https://medium.com/@kirill-markin/creating-a-voice-enabled-telegram-bot-for-gpt-chat-without-devops-a-comprehensive-guide-8a905241cb9c)
   * Publisher: Medium
   * Date: 2023-06-22
