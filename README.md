@@ -20,6 +20,9 @@ Actions:
 * Roles
   * Founder of [ozma.io](https://ozma.io)
   * Head of AI Lab at [SOAX](https://soax.com)
+  * Judge at [MassChallenge](https://masschallenge.org/)
+  * Mentor at [Founder Institute](https://fi.co/mentors/11022)
+  * Mentor at [MentorCruise](https://mentorcruise.com/mentor/kirillmarkin/)
 
 ## Articles, conferences, and mentions
 
