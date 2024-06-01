@@ -1,4 +1,4 @@
-# Kirill Markin, Founder of ozma.io, Head of AI Lab
+# Kirill Markin — Founder of ozma.io, Head of AI Lab
 
 Actions:
 * [💜 Donate: Boost Kirill's Awesomeness!](https://donate.stripe.com/dR6dUr7vyefkcHC147)
@@ -24,33 +24,4 @@ Actions:
   * Mentor at [Founder Institute](https://fi.co/mentors/11022)
   * Mentor at [MentorCruise](https://mentorcruise.com/mentor/kirillmarkin/)
 
-## Articles, conferences, and mentions
-
-* [Conference Talk: AI web scraping - Data Collection reimagined with soax.com](https://youtu.be/QDFDTN30YOs?si=fpeSOig9h1el2zkK)
-  * Publisher: noah-conference.com
-  * Date: 2023-12-14
-  * Event: [NOAH Conference 2023, Zurich](https://www.noah-conference.com/program-noah-zurich-conference-2023/)
-* [Conference Talk: How to handle a billion new records per day when migrating databases](https://verigram.ai/blog/Kazakhstan-AI-ML-community-is-delighted-with-VeriMeet)
-  * Publisher: verigram.ai
-  * Date: 2023-09-08
-* [Build with AI Custom ERP and CRM - No Code Required](https://youtu.be/Una8_vv6mlY?si=oaPzSTpdla7tfXmF)
-  * Publisher: [ozma-io youtube channel](https://www.youtube.com/@ozma-io)
-  * Date: 2024-04-01
-  * Type: Video
-* [Creating a voice-enabled Telegram Bot for GPT Chat without DevOps: a comprehensive guide](https://medium.com/@kirill-markin/creating-a-voice-enabled-telegram-bot-for-gpt-chat-without-devops-a-comprehensive-guide-8a905241cb9c)
-  * Publisher: Medium
-  * Date: 2023-06-22
-* [DIY Voice-Controlled GPT Chat: A Step-by-Step Guide for Beginners](https://kirill-markin.medium.com/diy-voice-controlled-gpt-chat-a-step-by-step-guide-for-beginners-5535330a7979)
-  * Publisher: Medium
-  * Date: 2023-06-08
-* [Where CRM is used? Discovering the Applications of CRM: Company Size, Function, and Industry.](https://ozma.io/articles/where-crm-is-used-discovering-the-applications-of-crm-size-function-industry/)
-  * Publisher: Ozma Inc.
-  * Date: 2023-06-04
-* [CRM in Excel — Benefits and Differences](https://ozma.io/articles/crm-in-excel-benefits-and-differences/)
-  * Publisher: Ozma Inc.
-  * Date: 2022-10-03
-* [Custom CRM from scratch on low-code platform ozma.io](https://ozma.io/articles/custom-crm-from-scratch-on-low-code-platform-ozma-io/)
-  * Publisher: Ozma Inc.
-  * Date: 2022-08-27
-
-👉 [Check out more media mentions in other languages](https://kirill-markin.com/ru/#media-ru)
+👉 [Check media mentions, conferences and articles](https://kirill-markin.com/#media)
