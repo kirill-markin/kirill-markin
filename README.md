@@ -4,7 +4,7 @@ Actions:
 * [💜 Donate: Boost Kirill's Awesomeness!](https://donate.stripe.com/dR6dUr7vyefkcHC147)
 * [📆 Book a meeting by calendly](https://calendly.com/kirill-markin)  
 
-Website: [kirill-markin.com](https://kirill-markin.com/)
+## 💁‍♂️ Kirill Markin contacts
 
 | **Contacts**                                    | **Social**                                                            | **Roles**                                                                                         |
 |-------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
