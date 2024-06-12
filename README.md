@@ -1,7 +1,7 @@
 # Kirill Markin — Founder of ozma.io, Head of AI Lab
 
 * [💜 Donate: Boost Kirill's Awesomeness!](https://donate.stripe.com/dR6dUr7vyefkcHC147)
-* [📆 Book a 15-minute meeting]([https://calendly.com/kirill-markin](https://calendar.app.google/pgnsq3MDbKkVwviV8))  
+* [📆 Book a 15-minute meeting](https://calendar.app.google/pgnsq3MDbKkVwviV8)  
 
 | **Contacts**                                    | **Social**                                                            | **Roles**                                                                                         |
 |-------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
