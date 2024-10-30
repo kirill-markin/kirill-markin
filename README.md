@@ -1,4 +1,4 @@
-# Kirill Markin — Data Engineer, Head of R&D Lab, Founder of ozma.io
+# Kirill Markin — Director of R&D, Founder of ozma.io, Data Engineer
 
 | **Contacts**                                    | **Social**                                                            | **Roles**                                                                                         |
 |-------------------------------------------------|----------------------------------------------------------------------|---------------------------------------------------------------------------------------------------|
