@@ -4,6 +4,8 @@
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+31625351137-green?logo=whatsapp&style=flat)](https://api.whatsapp.com/send?phone=31625351137)
 [![Telegram](https://img.shields.io/badge/Telegram-Kirmark-lightblue?logo=telegram&style=flat)](https://t.me/kirmark)
 
+[kirill-markin.com](https://kirill-markin.com) — youtube videos, conferences, talks and articles
+
 **Roles**:
 
 - Founder of [ozma.io](https://ozma.io)
@@ -13,7 +15,6 @@
 - Mentor at [MentorCruise](https://mentorcruise.com/mentor/kirillmarkin/)
 
 📆 [Book a 15-minute meeting](https://calendar.app.google/pgnsq3MDbKkVwviV8)  
-👉 [Check media mentions, conferences and articles](https://kirill-markin.com/#media)
 
 [![Email](https://img.shields.io/badge/Email-markinkirill@gmail.com-white?logo=gmail&style=flat)](mailto:markinkirill@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Kirill_Markin-darkred?logo=youtube&style=flat)](https://www.youtube.com/@kirill-markin)
