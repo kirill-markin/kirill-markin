@@ -1,7 +1,7 @@
-# Kirill Markin — Director of R&D, Founder of ozma.io, Data Engineer
+# Kirill Markin — ❀ Tech CTO ┇ VP of Engineering ┇ AI & Data Engineer ┇ Founder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill_Markin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kirill-markin/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-+31625351137-green?logo=whatsapp&style=flat)](https://api.whatsapp.com/send?phone=31625351137)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-+359879906085-green?logo=whatsapp&style=flat)]([https://api.whatsapp.com/send?phone=31625351137](https://api.whatsapp.com/send?phone=359879906085))
 [![Telegram](https://img.shields.io/badge/Telegram-Kirmark-lightblue?logo=telegram&style=flat)](https://t.me/kirmark)
 
 [kirill-markin.com](https://kirill-markin.com) — youtube videos, conferences, talks and articles
