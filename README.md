@@ -8,7 +8,7 @@
 
 **Roles**:
 
-- VP of Engineering at [Aspect Health](https://www.linkedin.com/company/aspectapp/)
+- CTO at [Aspect Health](https://www.linkedin.com/company/aspectapp/)
 - ex-founder of [ozma.io](https://ozma.io)
 - Judge at [MassChallenge](https://masschallenge.org/)
 - Mentor at [Founder Institute](https://fi.co/mentors/11022)
