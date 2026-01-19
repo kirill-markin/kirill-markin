@@ -14,7 +14,7 @@
 - Mentor at [Founder Institute](https://fi.co/mentors/11022)
 - Mentor at [MentorCruise](https://mentorcruise.com/mentor/kirillmarkin/)
 
-📆 [Book a 15-minute meeting]([https://calendar.app.google/pgnsq3MDbKkVwviV8](https://kirill-markin.com/meet/short/))  
+📆 [Book a 15-minute meeting](https://kirill-markin.com/meet/short/)  
 
 [![Email](https://img.shields.io/badge/Email-markinkirill@gmail.com-white?logo=gmail&style=flat)](mailto:markinkirill@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Kirill_Markin-darkred?logo=youtube&style=flat)](https://www.youtube.com/@kirill-markin)
