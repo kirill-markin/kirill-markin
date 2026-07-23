@@ -6,8 +6,6 @@
 
 [kirill-markin.com](https://kirill-markin.com) — youtube videos, conferences, talks and articles
 
-📆 [Book a 15-minute meeting](https://kirill-markin.com/meet/short/)  
-
 [![Email](https://img.shields.io/badge/Email-markinkirill@gmail.com-white?logo=gmail&style=flat)](mailto:markinkirill@gmail.com)
 [![YouTube](https://img.shields.io/badge/YouTube-Kirill_Markin-darkred?logo=youtube&style=flat)](https://www.youtube.com/@kirill-markin)
 [![X](https://img.shields.io/badge/twitter-Kirill_Markin-black?logo=x&style=flat)](https://x.com/kirill_markin_)
