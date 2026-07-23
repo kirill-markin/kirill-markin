@@ -9,4 +9,4 @@
 [![Reddit](https://img.shields.io/badge/Reddit-Kirmark-orange?logo=reddit&style=flat)](https://www.reddit.com/user/Kirmark/)
 [![Instagram](https://img.shields.io/badge/Instagram-kirill.markin.kira-pink?logo=instagram&style=flat)](https://www.instagram.com/kirill.markin.kira/)
 
-[kirill-markin.com](https://kirill-markin.com) — youtube videos, conferences, talks and articles
+[kirill-markin.com](https://kirill-markin.com) — website
