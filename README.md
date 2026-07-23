@@ -6,15 +6,6 @@
 
 [kirill-markin.com](https://kirill-markin.com) — youtube videos, conferences, talks and articles
 
-**Roles**:
-
-- Founder in "Stealth Startup"
-- ex-CTO at [Aspect Health](https://www.linkedin.com/company/aspectapp/)
-- ex-founder of [ozma.io](https://ozma.io)
-- Judge at [MassChallenge](https://masschallenge.org/)
-- Mentor at [Founder Institute](https://fi.co/mentors/11022)
-- Mentor at [MentorCruise](https://mentorcruise.com/mentor/kirillmarkin/)
-
 📆 [Book a 15-minute meeting](https://kirill-markin.com/meet/short/)  
 
 [![Email](https://img.shields.io/badge/Email-markinkirill@gmail.com-white?logo=gmail&style=flat)](mailto:markinkirill@gmail.com)
