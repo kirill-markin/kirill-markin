@@ -1,4 +1,4 @@
-# Kirill Markin — ❀ Staff Software Engineer ┇ Founder
+# Kirill Markin — ❀ Staff Software Engineer ┇ ex-Founder
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kirill_Markin-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/kirill-markin/)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-+447455711443-green?logo=whatsapp&style=flat)](https://api.whatsapp.com/send?phone=447455711443)
